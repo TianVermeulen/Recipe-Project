@@ -1,0 +1,31 @@
+div .title_img{
+   display: inline-block; 
+}
+
+div .img3{
+
+}
+
+table{
+
+}
+
+h1{
+    float: left;
+    font-family: 'Audiowide';
+}
+
+h2{
+    clear: both;
+    font-family: fantasy;
+}
+
+h3{
+    font-family: cursive;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
